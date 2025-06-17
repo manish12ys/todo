@@ -1,10 +1,3 @@
-Of course! Here's a **short and clean `README.md`** version for your Flask To-Do app:
-
----
-
-## 📄 `README.md`
-
-```markdown
 # 📝 Flask To-Do List
 
 A simple and modern To-Do list app built with **Flask** and **SQLite**.
